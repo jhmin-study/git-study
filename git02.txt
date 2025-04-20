@@ -1,3 +1,7 @@
 새로운 파일 만듬
 홍길동이  작업함!!!
 visual studio 에서 수정
+
+<footer>
+푸터 작업함
+</footer>
